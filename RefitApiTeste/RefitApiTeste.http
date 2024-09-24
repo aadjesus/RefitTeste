@@ -1,0 +1,6 @@
+@RefitApiTeste_HostAddress = http://localhost:5146
+
+GET {{RefitApiTeste_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
